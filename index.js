@@ -13,3 +13,4 @@ happyHolidaysTo(Steph)
 function happyHolidaysTo(holiday, name){
   return `Happy ${holiday}, ${name}`
 }
+happyHolidaysTo("Kwanzaa, Steph")
