@@ -17,7 +17,7 @@ function happyHolidayTo(holiday, name){
 happyHolidayTo("Kwanzaa, Steph")
 
 function holidayCountdown(holiday, days){
-  return `It'\s ${days} days until ${holiday}`
+  return `It'\s ${days} days until ${holiday}!`
 }
 holidayCountdown("12", "Valentine's day")
 
